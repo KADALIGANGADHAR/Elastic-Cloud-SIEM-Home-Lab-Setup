@@ -212,7 +212,7 @@
 - **Stop agent:``sudo systemctl stop elastic-agent``**
 
 - **Uninstall agent:``sudo elastic-agent uninstall``**
-- 
+ 
 ## Conclusion
 
 - **Installed and configured Elastic Cloud(SIEM)**
